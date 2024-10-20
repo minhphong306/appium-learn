@@ -1,0 +1,18 @@
+{
+  "name": "appium-learn",
+  "version": "1.0.0",
+  "description": "Learn how to code with appium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appium",
+    "learning"
+  ],
+  "author": "minhphong306",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^9.2.1"
+  }
+}
